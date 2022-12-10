@@ -49,6 +49,7 @@ junit.xml
 /public/vite-dev
 /public/vite-test
 node_modules
+node_modules
 *.local
 .DS_Store
 
