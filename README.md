@@ -27,9 +27,7 @@ Once the facility is registered and confirmed they can create a calendar and shi
 
 - JavaScriptgit
 - Ruby on Rails
-- React
-- Redux
-- Webpack
+- Vue
 - HTML/SCSS
 - Node.JS
 - Jest
@@ -38,8 +36,8 @@ Once the facility is registered and confirmed they can create a calendar and shi
 ## Getting Started
 
 ```cmd
-git clone https://github.com/elisha2kyakpo1/Book-an-Appointment.git
-cd Book-an-Appointment
+git clone https://github.com/tnyandoro/Healthcare-convergence
+cd Healthcare-convergence
 bundle i
 npm install
 ```
