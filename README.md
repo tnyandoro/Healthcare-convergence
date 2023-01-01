@@ -94,8 +94,8 @@ bundle exec rspec ./spec/models
 
 👤 **Jason Khambule**
 
-- GitHub: [@Jason Khambule]()
-- Twitter: [@Jason Khambule]()
+- GitHub: [@Jason Khambule](https://www.linkedin.com)
+- Twitter: [@Jason Khambule](https://github.com/)
 - LinkedIn: [Jason Khambule](#)
 
 👤 **Tendai Nyandoro**
